@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/class-based-context-api-app.git/static/css/main.fb1acf2d.chunk.css",
-    "main.js": "/class-based-context-api-app.git/static/js/main.5aa96b1a.chunk.js",
-    "main.js.map": "/class-based-context-api-app.git/static/js/main.5aa96b1a.chunk.js.map",
-    "runtime-main.js": "/class-based-context-api-app.git/static/js/runtime-main.21c246f3.js",
-    "runtime-main.js.map": "/class-based-context-api-app.git/static/js/runtime-main.21c246f3.js.map",
-    "static/js/2.e7bb2177.chunk.js": "/class-based-context-api-app.git/static/js/2.e7bb2177.chunk.js",
-    "static/js/2.e7bb2177.chunk.js.map": "/class-based-context-api-app.git/static/js/2.e7bb2177.chunk.js.map",
-    "static/js/3.c4099b7b.chunk.js": "/class-based-context-api-app.git/static/js/3.c4099b7b.chunk.js",
-    "static/js/3.c4099b7b.chunk.js.map": "/class-based-context-api-app.git/static/js/3.c4099b7b.chunk.js.map",
-    "index.html": "/class-based-context-api-app.git/index.html",
-    "static/css/main.fb1acf2d.chunk.css.map": "/class-based-context-api-app.git/static/css/main.fb1acf2d.chunk.css.map",
-    "static/js/2.e7bb2177.chunk.js.LICENSE.txt": "/class-based-context-api-app.git/static/js/2.e7bb2177.chunk.js.LICENSE.txt"
+    "main.css": "/class-based-context-api-app/static/css/main.fb1acf2d.chunk.css",
+    "main.js": "/class-based-context-api-app/static/js/main.5aa96b1a.chunk.js",
+    "main.js.map": "/class-based-context-api-app/static/js/main.5aa96b1a.chunk.js.map",
+    "runtime-main.js": "/class-based-context-api-app/static/js/runtime-main.4a6bbbfd.js",
+    "runtime-main.js.map": "/class-based-context-api-app/static/js/runtime-main.4a6bbbfd.js.map",
+    "static/js/2.e7bb2177.chunk.js": "/class-based-context-api-app/static/js/2.e7bb2177.chunk.js",
+    "static/js/2.e7bb2177.chunk.js.map": "/class-based-context-api-app/static/js/2.e7bb2177.chunk.js.map",
+    "static/js/3.c4099b7b.chunk.js": "/class-based-context-api-app/static/js/3.c4099b7b.chunk.js",
+    "static/js/3.c4099b7b.chunk.js.map": "/class-based-context-api-app/static/js/3.c4099b7b.chunk.js.map",
+    "index.html": "/class-based-context-api-app/index.html",
+    "static/css/main.fb1acf2d.chunk.css.map": "/class-based-context-api-app/static/css/main.fb1acf2d.chunk.css.map",
+    "static/js/2.e7bb2177.chunk.js.LICENSE.txt": "/class-based-context-api-app/static/js/2.e7bb2177.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.21c246f3.js",
+    "static/js/runtime-main.4a6bbbfd.js",
     "static/js/2.e7bb2177.chunk.js",
     "static/css/main.fb1acf2d.chunk.css",
     "static/js/main.5aa96b1a.chunk.js"
