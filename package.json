@@ -1,6 +1,6 @@
 {
   "name": "bookstore-contextapi",
-  "homepage": "https://santibout.github.io/class-based-context-api-app.git",
+  "homepage": "https://santibout.github.io/class-based-context-api-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
